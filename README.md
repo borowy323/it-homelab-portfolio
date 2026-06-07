@@ -21,5 +21,3 @@ Build practical IT skills in system administration, networking and troubleshooti
 - Active Directory → ./active-directory  
 - Networking & VPN → ./networking-vpn  
 - IT Support Lab → ./it-support-scenarios  
-
-
