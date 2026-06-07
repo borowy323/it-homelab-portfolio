@@ -1,4 +1,3 @@
-# it-homelab-portfolio
 # 🧠 IT Homelab Portfolio
 
 ## 🎯 Objective
@@ -7,7 +6,6 @@ Build practical IT skills in system administration, networking and troubleshooti
 ---
 
 ## 🏗️ Lab Overview
-
 - Proxmox virtualization
 - Windows Server & Active Directory
 - Networking and VPN
