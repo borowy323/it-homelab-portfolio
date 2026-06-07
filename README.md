@@ -19,9 +19,9 @@ Build practical IT skills in system administration, networking and troubleshooti
 
 ## 📂 Projects
 
+- Proxmox Foundation → ./proxmox-foundation  
+- Active Directory → ./active-directory  
+- Networking & VPN → ./networking-vpn  
+- IT Support Lab → ./it-support-scenarios  
 
-- **Proxmox Foundation** → ./proxmox-foundation  
-- **Active Directory** → ./active-directory  
-- **Networking & VPN** → ./networking-vpn  
-- **IT Support Lab** → ./it-support-scenarios  
 
