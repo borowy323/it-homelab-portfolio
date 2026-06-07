@@ -17,7 +17,7 @@ Build practical IT skills in system administration, networking and troubleshooti
 
 ## 📂 Projects
 
-- **Proxmox Foundation** → ./proxmox-foundation ##
+- **Proxmox Foundation** → ./proxmox-foundation 
   Virtualization environment with Proxmox, virtual machines and networking  
 
 - **Active Directory** → ./active-directory  
