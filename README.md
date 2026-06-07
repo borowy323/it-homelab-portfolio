@@ -23,8 +23,12 @@ Build practical IT skills in system administration, networking and troubleshooti
 - **Active Directory** → ./active-directory  
   - Windows Server domain controller, users and group management  
 
-- **Networking & VPN** → ./networking-vpn  
-  - Network configuration, DNS, VPN setup and troubleshooting  
-
 - **IT Support Lab** → ./it-support-scenarios  
   - Real-world IT support scenarios and troubleshooting practice  
+
+- **Linux & Docker** → ./linux-docker  
+  - Linux administration and Docker container setup  
+
+- **Cloud & Automation** → ./cloud-automation  
+  - Basic cloud concepts and automation with PowerShell  
+``
