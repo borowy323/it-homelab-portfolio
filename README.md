@@ -19,7 +19,7 @@ Build practical IT skills in system administration, networking and troubleshooti
 
 ## 📂 Projects
 
-./proxmox-foundation
-./active-directory
-./networking-vpn
-./it-support-scenarios
+-./proxmox-foundation
+-./active-directory
+-./networking-vpn
+-./it-support-scenarios
